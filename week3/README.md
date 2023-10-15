@@ -4,6 +4,10 @@
 
 PathVariable, RequestBody 상관하지 않고 모두 Dto로 변환해준다.
 
+Response 에서 jackson 을 이용하려면 모든 필드의 getter 가 존재해야 된다
+
+아니면 406 에러남,,,
+
 ## Cors
 
 ### Same-Origin Policy
