@@ -13,3 +13,5 @@
 - [5주차](week5/README.md)
 
 - [6주차](week6/README.md)
+
+- [7주차](week6/README.md)
